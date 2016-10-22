@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{2F860519-F39F-1CBF-339B-6DC3C628E327}") = "X-TOUCH", "X-TOUCH.vcproj", "{16A55F03-712C-0612-49B2-3F80AE03B1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A55F03-712C-0612-49B2-3F80AE03B1AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16A55F03-712C-0612-49B2-3F80AE03B1AD}.Debug|Win32.Build.0 = Debug|Win32
+		{16A55F03-712C-0612-49B2-3F80AE03B1AD}.Release|Win32.ActiveCfg = Release|Win32
+		{16A55F03-712C-0612-49B2-3F80AE03B1AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

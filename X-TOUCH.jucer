@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="TF2Ev8" name="X-TOUCH" projectType="guiapp" version="1.0.0"
+              bundleIdentifier="com.yourcompany.XTOUCH" includeBinaryInAppConfig="1"
+              jucerVersion="3.1.0">
+  <MAINGROUP id="YnpiJy" name="X-TOUCH">
+    <GROUP id="{E7589417-616E-665B-0149-79D0C774BCC1}" name="Source">
+      <FILE id="Dk0Fh6" name="ButtonsCompact17To24Component.cpp" compile="1"
+            resource="0" file="Source/ButtonsCompact17To24Component.cpp"/>
+      <FILE id="vF0WtP" name="ButtonsCompact17To24Component.h" compile="0"
+            resource="0" file="Source/ButtonsCompact17To24Component.h"/>
+      <FILE id="jFQob0" name="ButtonsCompact1To8Component.cpp" compile="1"
+            resource="0" file="Source/ButtonsCompact1To8Component.cpp"/>
+      <FILE id="TjCPRh" name="ButtonsCompact1To8Component.h" compile="0"
+            resource="0" file="Source/ButtonsCompact1To8Component.h"/>
+      <FILE id="P4Y7xJ" name="ButtonsCompact25To33Component.cpp" compile="1"
+            resource="0" file="Source/ButtonsCompact25To33Component.cpp"/>
+      <FILE id="RIs4ia" name="ButtonsCompact25To33Component.h" compile="0"
+            resource="0" file="Source/ButtonsCompact25To33Component.h"/>
+      <FILE id="ve7EQi" name="ButtonsCompact34To39Component.cpp" compile="1"
+            resource="0" file="Source/ButtonsCompact34To39Component.cpp"/>
+      <FILE id="iLYOUb" name="ButtonsCompact34To39Component.h" compile="0"
+            resource="0" file="Source/ButtonsCompact34To39Component.h"/>
+      <FILE id="HqCndF" name="ButtonsCompact9To16Component.cpp" compile="1"
+            resource="0" file="Source/ButtonsCompact9To16Component.cpp"/>
+      <FILE id="fBZ2Rc" name="ButtonsCompact9To16Component.h" compile="0"
+            resource="0" file="Source/ButtonsCompact9To16Component.h"/>
+      <FILE id="i3TfBq" name="ButtonsCompactComponent.cpp" compile="1" resource="0"
+            file="Source/ButtonsCompactComponent.cpp"/>
+      <FILE id="zykxUy" name="ButtonsCompactComponent.h" compile="0" resource="0"
+            file="Source/ButtonsCompactComponent.h"/>
+      <FILE id="KDrOG1" name="ButtonsMini1To8Component.cpp" compile="1" resource="0"
+            file="Source/ButtonsMini1To8Component.cpp"/>
+      <FILE id="NLhuXn" name="ButtonsMini1To8Component.h" compile="0" resource="0"
+            file="Source/ButtonsMini1To8Component.h"/>
+      <FILE id="XzbDxQ" name="ButtonsMini9To16Component.cpp" compile="1"
+            resource="0" file="Source/ButtonsMini9To16Component.cpp"/>
+      <FILE id="qYkK0o" name="ButtonsMini9To16Component.h" compile="0" resource="0"
+            file="Source/ButtonsMini9To16Component.h"/>
+      <FILE id="DiTP1y" name="ButtonsMiniComponent.cpp" compile="1" resource="0"
+            file="Source/ButtonsMiniComponent.cpp"/>
+      <FILE id="Acswkw" name="ButtonsMiniComponent.h" compile="0" resource="0"
+            file="Source/ButtonsMiniComponent.h"/>
+      <FILE id="txWxBK" name="EncodersCompact1To8Component.cpp" compile="1"
+            resource="0" file="Source/EncodersCompact1To8Component.cpp"/>
+      <FILE id="mg3bST" name="EncodersCompact1To8Component.h" compile="0"
+            resource="0" file="Source/EncodersCompact1To8Component.h"/>
+      <FILE id="peQsJ3" name="EncodersCompact9To16Component.cpp" compile="1"
+            resource="0" file="Source/EncodersCompact9To16Component.cpp"/>
+      <FILE id="jdbAU4" name="EncodersCompact9To16Component.h" compile="0"
+            resource="0" file="Source/EncodersCompact9To16Component.h"/>
+      <FILE id="TYhMEI" name="EncodersCompactComponent.cpp" compile="1" resource="0"
+            file="Source/EncodersCompactComponent.cpp"/>
+      <FILE id="gHH5Lu" name="EncodersCompactComponent.h" compile="0" resource="0"
+            file="Source/EncodersCompactComponent.h"/>
+      <FILE id="oaklxf" name="EncodersMiniComponent.cpp" compile="1" resource="0"
+            file="Source/EncodersMiniComponent.cpp"/>
+      <FILE id="C5nNJH" name="EncodersMiniComponent.h" compile="0" resource="0"
+            file="Source/EncodersMiniComponent.h"/>
+      <FILE id="RzHRfy" name="FaderMiniComponent.cpp" compile="1" resource="0"
+            file="Source/FaderMiniComponent.cpp"/>
+      <FILE id="Dblx1L" name="FaderMiniComponent.h" compile="0" resource="0"
+            file="Source/FaderMiniComponent.h"/>
+      <FILE id="afTcVB" name="FadersAndFootCompactComponent.cpp" compile="1"
+            resource="0" file="Source/FadersAndFootCompactComponent.cpp"/>
+      <FILE id="OgqPjH" name="FadersAndFootCompactComponent.h" compile="0"
+            resource="0" file="Source/FadersAndFootCompactComponent.h"/>
+      <FILE id="XGen3T" name="GlobalCompactComponent.cpp" compile="1" resource="0"
+            file="Source/GlobalCompactComponent.cpp"/>
+      <FILE id="Efnz8C" name="GlobalCompactComponent.h" compile="0" resource="0"
+            file="Source/GlobalCompactComponent.h"/>
+      <FILE id="mkCCrA" name="GlobalMiniComponent.cpp" compile="1" resource="0"
+            file="Source/GlobalMiniComponent.cpp"/>
+      <FILE id="WAwf6p" name="GlobalMiniComponent.h" compile="0" resource="0"
+            file="Source/GlobalMiniComponent.h"/>
+      <FILE id="i8qksO" name="MainComponent.cpp" compile="1" resource="0"
+            file="Source/MainComponent.cpp"/>
+      <FILE id="iJbdSo" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+      <FILE id="FokD7G" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <VS2010 targetFolder="Builds/VisualStudio2010">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" winArchitecture="32-bit"
+                       isDebug="1" optimisation="1" targetName="X-TOUCH"/>
+        <CONFIGURATION name="Release" winWarningLevel="4" generateManifest="1" winArchitecture="32-bit"
+                       isDebug="0" optimisation="2" targetName="X-TOUCH"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_events" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+      </MODULEPATHS>
+    </VS2010>
+    <VS2008 targetFolder="Builds/VisualStudio2008">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" isDebug="1"
+                       optimisation="1" targetName="X-TOUCH"/>
+        <CONFIGURATION name="Release" winWarningLevel="4" generateManifest="1" isDebug="0"
+                       optimisation="2" targetName="X-TOUCH"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_gui_basics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_events" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_core" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+      </MODULEPATHS>
+    </VS2008>
+    <XCODE_IPHONE targetFolder="Builds/iOS">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" iosCompatibility="default" isDebug="1" optimisation="1"
+                       targetName="X-TOUCH"/>
+        <CONFIGURATION name="Release" iosCompatibility="default" isDebug="0" optimisation="2"
+                       targetName="X-TOUCH"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_gui_basics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_events" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_core" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+      </MODULEPATHS>
+    </XCODE_IPHONE>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" osxSDK="default" osxCompatibility="default" osxArchitecture="default"
+                       isDebug="1" optimisation="1" targetName="X-TOUCH"/>
+        <CONFIGURATION name="Release" osxSDK="default" osxCompatibility="default" osxArchitecture="default"
+                       isDebug="0" optimisation="2" targetName="X-TOUCH"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_gui_basics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_events" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+        <MODULEPATH id="juce_core" path="../../../&#24179;&#21488;&#24037;&#20855;/Inst_PC_Dev Tools/Juce_3.00/Juce_3.00/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULES id="juce_core" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_data_structures" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_events" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_graphics" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_gui_basics" showAllCode="1" useLocalCopy="1"/>
+  </MODULES>
+  <JUCEOPTIONS/>
+</JUCERPROJECT>
